@@ -41,7 +41,7 @@ The dashboard helps users identify key sales trends, profitable segments, and re
 ---
 
 ## 🖼️ Dashboard Preview
-![Global Superstore Dashboard](Dashboard.PNG)
+![Global Superstore Dashboard](https://github.com/ivikas1209/Global_superstore_Dashboard/blob/95147ad0b0d08d914b6c982cf3260d63944aa61e/Dashboard.PNG)
 
 ---
 
